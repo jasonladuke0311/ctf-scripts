@@ -3,6 +3,7 @@ import hashlib
 lead = "soMe3FK2J+YFAMzUjwpfpA"
 trail = "6dcKXY3x/JRZbyj9RDB/Lw"
 
+# Don't bother, it's not a real secret.
 bob_hash = 'b5406d12c28fe602b27b063a2c1231f9'
 
 with open('passwords.txt', 'r') as f:
